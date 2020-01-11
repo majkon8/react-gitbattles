@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gitbattles/static/css/main.34de6062.chunk.css",
+    "main.js": "/react-gitbattles/static/js/main.5aca1ebe.chunk.js",
+    "main.js.map": "/react-gitbattles/static/js/main.5aca1ebe.chunk.js.map",
+    "runtime~main.js": "/react-gitbattles/static/js/runtime~main.c59f72d9.js",
+    "runtime~main.js.map": "/react-gitbattles/static/js/runtime~main.c59f72d9.js.map",
+    "static/css/2.5ec480d0.chunk.css": "/react-gitbattles/static/css/2.5ec480d0.chunk.css",
+    "static/js/2.14e84d14.chunk.js": "/react-gitbattles/static/js/2.14e84d14.chunk.js",
+    "static/js/2.14e84d14.chunk.js.map": "/react-gitbattles/static/js/2.14e84d14.chunk.js.map",
+    "index.html": "/react-gitbattles/index.html",
+    "precache-manifest.d1d749e01917054fb42c122ade14d561.js": "/react-gitbattles/precache-manifest.d1d749e01917054fb42c122ade14d561.js",
+    "service-worker.js": "/react-gitbattles/service-worker.js",
+    "static/css/2.5ec480d0.chunk.css.map": "/react-gitbattles/static/css/2.5ec480d0.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/react-gitbattles/static/css/main.34de6062.chunk.css.map"
+  }
+}
