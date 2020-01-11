@@ -45,6 +45,7 @@ const App = () => {
           <Route path="/popular" render={() => <Popular theme={theme} />} />
           <Route path="/search" render={() => <Search theme={theme} />} />
           <Route path="/battle" render={() => <Battle theme={theme} />} />
+          <Route render={() => <Redirect to="/" />} />
         </Switch>
       </Router>
     </Container>

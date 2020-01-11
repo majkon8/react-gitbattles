@@ -15,17 +15,17 @@ export function fetchPopularRepos(language) {
 }
 
 export function getProfile(username) {
-  const url = `http://api.github.com/users/${username}${params}`;
+  const url = `https://api.github.com/users/${username}${params}`;
   return fetch(url).then(response => response.json());
 }
 
 export function getRepos(username) {
-  const url = `http://api.github.com/users/${username}/repos${latest}`;
+  const url = `https://api.github.com/users/${username}/repos${latest}`;
   return fetch(url).then(response => response.json());
 }
 
 function getAllRepos(username, quantity = 100) {
-  const url = `http://api.github.com/users/${username}/repos${params}&per_page=${quantity}`;
+  const url = `https://api.github.com/users/${username}/repos${params}&per_page=${quantity}`;
   return axios.get(url);
 }
 
